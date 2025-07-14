@@ -4901,6 +4901,14 @@
 		(uuid "0b5cad71-0a1a-4209-8c1b-1a240eb44584")
 	)
 	(segment
+		(start 109.46 69.54)
+		(end 112 67)
+		(width 0.75)
+		(layer "F.Cu")
+		(net 2)
+		(uuid "76442f80-4ae5-4a34-afc9-e18cb36c1615")
+	)
+	(segment
 		(start 109.46 74.46)
 		(end 109.46 69.54)
 		(width 0.75)
